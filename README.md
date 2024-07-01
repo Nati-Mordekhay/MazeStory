@@ -2,7 +2,7 @@
 Maze game inspired by 'MapleStory', built using Java and JavaFX while following SOLID principles, implementing common search algorithms, design patterns, concurrency, etc.
 
 * Maze generator algorithms: Empty maze, Simple maze, MyMaze (random maze with atleast one solution)
-* Solving algorithms implemented: Breath First Search, Best First Search, Depth First Search
+* Solving algorithms implemented: Breadth First Search, Best First Search, Depth First Search
 * Design patterns implemented: Factory, Bridge, Observer, MVVM(Model-View-ViewModel)
 * RLE (Run-length encoding) Compression implemented, allowing the user to save and load compressed maze's created by the game
 * TCP networking local simulation, to generate and solve mazes
